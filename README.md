@@ -17,4 +17,4 @@ ImageNet: torch.models (ResNet50, Inceptionv3, ViT-b/16, Swin-Tv2-b), pretrained
 Baselines: https://github.com/Trustworthy-AI-Group/TransferAttack
 
 ### Evaluation Process
-python3 run.py --model model_name 
+python3  run.py   --model  model_name 
